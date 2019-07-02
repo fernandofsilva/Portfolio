@@ -3,6 +3,8 @@
 The purpose of this repository is to organize all the projects available on my
 github, it also designed for the recruiters to know about my competences.
 
+## Projects
+
 Data Bases
 --------
 
@@ -34,11 +36,17 @@ Others
 
 - Docker [Link 1](https://github.com/fernandofsilva/Docker)
 
+## Social
+
+[LinkedIn Profile](https://www.linkedin.com/in/engfernandofsilva/) <br>
+[stackoverflow](https://stackoverflow.com/users/6586216/fernando-silva)
 
 Blog Post
 --------
 
 
+
+## Profile
 
 Courses and Specializations
 -------- 
