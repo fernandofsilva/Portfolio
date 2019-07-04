@@ -117,6 +117,7 @@ Click on the Course Name to go the web site
 | [Manipulating Time Series Data in R with xts & zoo](https://www.datacamp.com/statement-of-accomplishment/course/b08cdfb955b5f93592c7cde059f4257786a5cf6c) | Datacamp | Mar-2017 |
 | [Introduction to Time Series Analysis](https://www.datacamp.com/statement-of-accomplishment/course/d88bf3d247bb826c59ee5fc0db2c13dc50a5c6bf) | Datacamp | Mar-2017 |
 | [Manipulating Time Series Data in R: Case Studies](https://www.datacamp.com/statement-of-accomplishment/course/1ab8fe3db888b19ce95fb96ff129929cb8d66517) | Datacamp | Mar-2017 |
+| [Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TBJCLA2K5SZW) | Coursera | 03-2017 |
 | [Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/A8FV34735FXS) | Coursera | Jan-2017 |
 | [Writing Functions in R](https://www.datacamp.com/statement-of-accomplishment/course/b6eb9ec15dbda326b2886478e631444568ac7086) | Datacamp | Jan-2017 |
 | [Data Analysis in R, the data.table Way](https://www.datacamp.com/statement-of-accomplishment/course/a0f7cc7796297c04c49a3b343d22e40c905a7c50) | Datacamp | Jan-2017 |
