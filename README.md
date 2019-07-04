@@ -16,11 +16,13 @@ Data Bases
 
 ### NoSQL
 
- - Cassandra [Link 1](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Modeling%20with%20Cassandra)
+- Cassandra [Link 1](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Modeling%20with%20Cassandra)
  
 
 Data Engineering
 --------
+
+- Spark [Link](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Lake)
 
 
 Machine Learning
@@ -35,6 +37,8 @@ Others
 --------
 
 - Docker [Link 1](https://github.com/fernandofsilva/Docker)
+- Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)
 
 ## Social
 
