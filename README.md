@@ -10,20 +10,19 @@ Data Bases
 
 ### RDBMS
 
-- PostgreSQL [Link 1](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Modeling%20with%20PostgreSQL)
-
-- Redshift [Link 1](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Warehouse)
+- [Data Modeling with PostgreSQL](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Modeling%20with%20PostgreSQL)
+- [Data Warehouse with Redshift](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Warehouse)
 
 ### NoSQL
 
-- Cassandra [Link 1](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Modeling%20with%20Cassandra)
+- [Data Modeling with Cassandra](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Modeling%20with%20Cassandra)
  
 
 Data Engineering
 --------
 
-- Spark [Link](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Lake)
-- Airflow [Link](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Pipelines)
+- [Data Lake with Spark](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Lake)
+- [Data Pipelines with Airflow](https://github.com/fernandofsilva/Data_Engineering-Udacity/tree/master/Data%20Pipelines)
 
 
 Machine Learning
@@ -37,7 +36,7 @@ Neural Networks
 Others
 --------
 
-- Docker [Link 1](https://github.com/fernandofsilva/Docker)
+- [Docker](https://github.com/fernandofsilva/Docker)
 - Google Cloud Platform (GCP)
 - Amazon Web Services (AWS)
 
