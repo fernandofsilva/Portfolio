@@ -60,6 +60,7 @@ Click on the Course Name to go the web site
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
 | Data Engineering Nanodegree | Udacity | In Progress |
+| [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/CYHRLZHPB2YE) | Coursera | Jul-2019 |
 | [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/9LXZMTPP3BWQ) | Coursera | Jun-2019 |
 | [Introduction to TensorFlow in Python](https://www.datacamp.com/statement-of-accomplishment/course/746acba89d6a0e88da057216a9cfffb5312d7760) | Datacamp | May-2019 |
 | [Advanced NLP with spaCy](https://www.datacamp.com/statement-of-accomplishment/course/2c51e01d5a87cab6e2664f22d06a895bd19331d9) | Datacamp | May-2019 |
