@@ -60,6 +60,7 @@ Click on the Course Name to go the web site
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
 | Data Engineering Nanodegree | Udacity | In Progress |
+| [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/U5ZCZLENH2XF) | Coursera | Aug-2019 |
 | [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/CYHRLZHPB2YE) | Coursera | Jul-2019 |
 | [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/9LXZMTPP3BWQ) | Coursera | Jun-2019 |
 | [Introduction to TensorFlow in Python](https://www.datacamp.com/statement-of-accomplishment/course/746acba89d6a0e88da057216a9cfffb5312d7760) | Datacamp | May-2019 |
