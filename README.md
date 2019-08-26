@@ -60,6 +60,7 @@ Click on the Course Name to go the web site
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
 | Data Engineering Nanodegree | Udacity | In Progress |
+| [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/78DJBHCGC2B2) | Coursera | Aug-2019 |
 | [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/U5ZCZLENH2XF) | Coursera | Aug-2019 |
 | [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/CYHRLZHPB2YE) | Coursera | Jul-2019 |
 | [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/9LXZMTPP3BWQ) | Coursera | Jun-2019 |
