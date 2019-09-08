@@ -58,6 +58,7 @@ Click on the Course Name to go the web site
 
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
+| [Sequence Models](https://www.coursera.org/account/accomplishments/certificate/U76HHLY798DT) | Coursera | Sep-2019 |
 | [Data Engineering Nanodegree](https://graduation-api.udacity.com/api/certificate/6ENU7E49/download) | Udacity | Aug-2019 |
 | [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/78DJBHCGC2B2) | Coursera | Aug-2019 |
 | [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/U5ZCZLENH2XF) | Coursera | Aug-2019 |
