@@ -58,6 +58,10 @@ Click on the Course Name to go the web site
 
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
+| [Launching into Machine Learning](https://www.coursera.org/account/accomplishments/verify/P7VX3LFVYFLA) | Coursera | Nov-2019 |
+| [How Google does Machine Learning](https://www.coursera.org/account/accomplishments/verify/CD7NZZHFJK9R) | Coursera | Nov-2019 |
+| [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/verify/QMFFMW2SN826) | Coursera | Out-2019 |
+| [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/verify/ESBPBPB9EWK8) | Coursera | Sep-2019 |
 | [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/CLJDQ3WWZ3PZ) | Coursera | Sep-2019 |
 | [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KVDWHASXSGTB) | Coursera | Sep-2019 |
 | [Sequence Models](https://www.coursera.org/account/accomplishments/certificate/U76HHLY798DT) | Coursera | Sep-2019 |
