@@ -58,6 +58,7 @@ Click on the Course Name to go the web site
 
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
+| [Intro to TensorFlow](https://www.coursera.org/account/accomplishments/certificate/2F8K6Z4XYSZ6) | Coursera | Nov-2019 |
 | [Launching into Machine Learning](https://www.coursera.org/account/accomplishments/verify/P7VX3LFVYFLA) | Coursera | Nov-2019 |
 | [How Google does Machine Learning](https://www.coursera.org/account/accomplishments/verify/CD7NZZHFJK9R) | Coursera | Nov-2019 |
 | [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/verify/QMFFMW2SN826) | Coursera | Out-2019 |
