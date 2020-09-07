@@ -58,6 +58,8 @@ Click on the Course Name to go the web site
 
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
+| [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/6EXNUVJLQCQT) | Coursera | Aug-2020 |
+| [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/WLRFG89SJYSB) | Coursera | Jan-2020 |
 | [Feature Engineering](https://www.coursera.org/account/accomplishments/certificate/2WX7W6B8KPYE) | Coursera | Dec-2019 |
 | [Intro to TensorFlow](https://www.coursera.org/account/accomplishments/certificate/2F8K6Z4XYSZ6) | Coursera | Nov-2019 |
 | [Launching into Machine Learning](https://www.coursera.org/account/accomplishments/verify/P7VX3LFVYFLA) | Coursera | Nov-2019 |
