@@ -58,6 +58,7 @@ Click on the Course Name to go the web site
 
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
+| [Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/certificate/S226AAEGGQGR) | Coursera | Oct-2020 |
 | [Introduction to Big Data](https://www.coursera.org/account/accomplishments/certificate/S9VT9GXCSBWE) | Coursera | Sep-2020 |
 | [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/6EXNUVJLQCQT) | Coursera | Aug-2020 |
 | [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/WLRFG89SJYSB) | Coursera | Jan-2020 |
