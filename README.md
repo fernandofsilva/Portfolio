@@ -58,6 +58,8 @@ Click on the Course Name to go the web site
 
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
+| [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/certificate/EJGVS7DS9Q6K) | Coursera | Oct-2020 |
+| [Art and Science of Machine Learning](https://www.coursera.org/account/accomplishments/certificate/B56U7Y2YWE84) | Coursera | Oct-2020 |
 | [Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/certificate/S226AAEGGQGR) | Coursera | Oct-2020 |
 | [Introduction to Big Data](https://www.coursera.org/account/accomplishments/certificate/S9VT9GXCSBWE) | Coursera | Sep-2020 |
 | [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/6EXNUVJLQCQT) | Coursera | Aug-2020 |
