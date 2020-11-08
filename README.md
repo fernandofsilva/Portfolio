@@ -40,6 +40,7 @@ Others
 - [Docker](https://github.com/fernandofsilva/Docker)
 - Google Cloud Platform (GCP)
 - Amazon Web Services (AWS)
+- [Package (B3 files parser)](https://github.com/fernandofsilva/bovespa)
 
 ## Social
 
