@@ -30,9 +30,9 @@ Machine Learning
 
 Neural Networks
 --------
-[Keras - Sequential API](https://github.com/fernandofsilva/Keras/tree/main/Sequential%20API)
-Keras - Validation, regularisation and callbacks
-Keras - Saving and loading models
+- [Keras - Sequential API](https://github.com/fernandofsilva/Keras/tree/main/Sequential%20API)
+- Keras - Validation, regularisation and callbacks
+- Keras - Saving and loading models
 
 Others
 --------
