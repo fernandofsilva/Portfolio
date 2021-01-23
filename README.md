@@ -34,6 +34,10 @@ Neural Networks
 - [Keras - Validation, regularisation and callbacks](https://github.com/fernandofsilva/Keras/tree/main/Validation%2C%20regularisation%20and%20callbacks)
 - Keras - Saving and loading models
 
+# Reinforcement Learning
+
+- [Monte Carlo Methods](https://github.com/fernandofsilva/Reinforcement_Learning/blob/main/notebooks/monte_carlo.ipynb)
+
 Others
 --------
 
