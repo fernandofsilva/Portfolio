@@ -34,6 +34,7 @@ Neural Networks
 - [Keras - Sequential API](https://github.com/fernandofsilva/Keras/tree/main/Sequential%20API)
 - [Keras - Validation, regularisation and callbacks](https://github.com/fernandofsilva/Keras/tree/main/Validation%2C%20regularisation%20and%20callbacks)
 - Keras - Saving and loading models
+- [Stock Options - Options pricing using GARCH(1,1), DNN and LSTM](https://github.com/fernandofsilva/LSTM_Option_Pricing)
 
 Reinforcement Learning
 --------
