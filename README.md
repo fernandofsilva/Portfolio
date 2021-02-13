@@ -68,6 +68,7 @@ Click on the Course Name to go the web site
 
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
+| [Sample-based Learning Methods](https://www.coursera.org/account/accomplishments/certificate/2WMDGQYJEQ2K) | Coursera | Jan-2021 |
 | [Fundamentals of Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/NMTWPQH9K88K) | Coursera | Jan-2021 |
 | [Customising your models with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/WAFJLUGPF8QK) | Coursera | Dec-2020 |
 | [Getting started with TensorFlow 2](https://www.coursera.org/account/accomplishments/verify/QZPDQW2DFFCS) | Coursera | Nov-2020 |
