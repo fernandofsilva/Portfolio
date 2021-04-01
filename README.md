@@ -1,7 +1,6 @@
 # Portfolio
 
-The purpose of this repository is to organize all the projects available on my
-github, it also designed for the recruiters to know about my competences.
+The purpose of this repository is to organize all the projects available on my github, it also designed for the recruiters to know about my competences.
 
 ## Projects
 
@@ -33,16 +32,21 @@ Neural Networks
 
 - [Stock Options - Options pricing using GARCH(1,1), DNN and LSTM](https://github.com/fernandofsilva/LSTM_Option_Pricing)
 
+
 Reinforcement Learning
 --------
 
-- [OpenAI Gym's Taxi-v3](https://github.com/fernandofsilva/Reinforcement_Learning/tree/main/projects/Taxi)
+- [Collaboration and Competition](https://github.com/fernandofsilva/Tennis)
+- [Continuos Control](https://github.com/fernandofsilva/Reacher)
+- [Navigation](https://github.com/fernandofsilva/Banana_Collector)
+- [DQN](https://github.com/fernandofsilva/LunarLander)
+- [Q-Learning](https://github.com/fernandofsilva/Taxi)
 
 
 Others
 --------
 
-- [Docker](https://github.com/fernandofsilva/Docker)
+- Docker
 - Google Cloud Platform (GCP)
 - Amazon Web Services (AWS)
 - [Package (B3 files parser)](https://github.com/fernandofsilva/bovespa)
@@ -56,7 +60,6 @@ Blog Post
 --------
 
 
-
 ## Profile
 
 Courses and Specializations
@@ -66,6 +69,7 @@ Click on the Course Name to go the web site
 
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
+| [Deep Reinforcement Learning Nanodegree](https://github.com/fernandofsilva/Docker) | Udacity | Mar-2021 |
 | [Sample-based Learning Methods](https://www.coursera.org/account/accomplishments/certificate/2WMDGQYJEQ2K) | Coursera | Jan-2021 |
 | [Fundamentals of Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/NMTWPQH9K88K) | Coursera | Jan-2021 |
 | [Customising your models with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/WAFJLUGPF8QK) | Coursera | Dec-2020 |
