@@ -69,7 +69,7 @@ Click on the Course Name to go the web site
 
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
-| [Prediction and Control with Function Approximation](https://www.coursera.org/account/accomplishments/certificate/VYDKFCXRPQH3) | Udacity | Apr-2021 |
+| [Prediction and Control with Function Approximation](https://www.coursera.org/account/accomplishments/certificate/VYDKFCXRPQH3) | Coursera | Apr-2021 |
 | [Deep Reinforcement Learning Nanodegree](https://confirm.udacity.com/DKG5YCKG) | Udacity | Mar-2021 |
 | [Sample-based Learning Methods](https://www.coursera.org/account/accomplishments/certificate/2WMDGQYJEQ2K) | Coursera | Jan-2021 |
 | [Fundamentals of Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/NMTWPQH9K88K) | Coursera | Jan-2021 |
