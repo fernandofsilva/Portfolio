@@ -69,6 +69,8 @@ Click on the Course Name to go the web site
 
 | Name  | Institution | Date |
 | ----- |:-----------:| ----:|
+| [TensorFlow 2 for Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/CGRNNNHSF9GV)| Coursera | May-2021 |
+| [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/account/accomplishments/certificate/8PYBBM4234GJ)| Coursera | May-2021 |
 | [A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/account/accomplishments/certificate/L3RRPQ3VV6BT) | Coursera | Apr-2021 |
 | [Prediction and Control with Function Approximation](https://www.coursera.org/account/accomplishments/certificate/VYDKFCXRPQH3) | Coursera | Apr-2021 |
 | [Deep Reinforcement Learning Nanodegree](https://confirm.udacity.com/DKG5YCKG) | Udacity | Mar-2021 |
